@@ -1,0 +1,11 @@
+D:\WinForm & WPF\Labels Buttons\Labels Buttons\bin\Debug\Labels Buttons.exe.config
+D:\WinForm & WPF\Labels Buttons\Labels Buttons\bin\Debug\Labels Buttons.exe
+D:\WinForm & WPF\Labels Buttons\Labels Buttons\bin\Debug\Labels Buttons.pdb
+D:\WinForm & WPF\Labels Buttons\Labels Buttons\obj\Debug\Labels Buttons.csproj.AssemblyReference.cache
+D:\WinForm & WPF\Labels Buttons\Labels Buttons\obj\Debug\Labels Buttons.csproj.SuggestedBindingRedirects.cache
+D:\WinForm & WPF\Labels Buttons\Labels Buttons\obj\Debug\Labels_Buttons.Form1.resources
+D:\WinForm & WPF\Labels Buttons\Labels Buttons\obj\Debug\Labels_Buttons.Properties.Resources.resources
+D:\WinForm & WPF\Labels Buttons\Labels Buttons\obj\Debug\Labels Buttons.csproj.GenerateResource.cache
+D:\WinForm & WPF\Labels Buttons\Labels Buttons\obj\Debug\Labels Buttons.csproj.CoreCompileInputs.cache
+D:\WinForm & WPF\Labels Buttons\Labels Buttons\obj\Debug\Labels Buttons.exe
+D:\WinForm & WPF\Labels Buttons\Labels Buttons\obj\Debug\Labels Buttons.pdb
